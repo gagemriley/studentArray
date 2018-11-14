@@ -2,7 +2,7 @@
 
 #### [Screenshots](https://photos.app.goo.gl/sP9hRtTVvWHRkxcKA)
 
-## Description
+## Description:
 This program allows the entry of one or more student’s names and course numeric grades; that also displays the information from the array in a Label on the form. It was created as a school project.
 
 ## Objectives:
