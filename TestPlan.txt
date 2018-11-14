@@ -1,0 +1,8 @@
+studentArray – Test Plan
+
+For this program I need to test my two text boxes (student name and course grade), my three buttons (add student, display array, and clear box), and my output to the label. First, I start with my text boxes and make sure my validation is working. I leave the student name blank and enter a numeric value into course grade and hit add student. I receive a message box that tells me there has been an error of invalid name, so I know the validation is working for student name. I next move onto the course grade. I enter a name into student, then try and leave course grade blank. I receive another message box telling me there has been an error of invalid grade and showing the validation is working for the text box. I test other instance that might cause an error, such as numbers above 100, negative numbers, decimals, etc. I conclude that the two text boxes work correctly. I can move onto testing the buttons. After entering valid data, I hit add student to receive a message box saying that a student has been added to the array. I repeat this process until I fill up the array and receive a message saying no more students can be added. I then test the display array button by pressing it. With the correct output I entered earlier displaying in the label I determine that both the add student and display array buttons are working. Lastly, I can test the clear button by pressing it and making sure the form resets. I test the program one more time to make sure I can enter new data into the arrays and display them correctly. I conclude that the program is working as intended.
+
+CISS 160
+GAGE RILEY
+12/5/2017
+

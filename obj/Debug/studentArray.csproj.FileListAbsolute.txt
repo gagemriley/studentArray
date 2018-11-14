@@ -1,0 +1,9 @@
+C:\Users\gagem\Desktop\studentArray\bin\Debug\studentArray.exe.config
+C:\Users\gagem\Desktop\studentArray\bin\Debug\studentArray.exe
+C:\Users\gagem\Desktop\studentArray\bin\Debug\studentArray.pdb
+C:\Users\gagem\Desktop\studentArray\obj\Debug\studentArray.csprojResolveAssemblyReference.cache
+C:\Users\gagem\Desktop\studentArray\obj\Debug\studentArray.Form1.resources
+C:\Users\gagem\Desktop\studentArray\obj\Debug\studentArray.Properties.Resources.resources
+C:\Users\gagem\Desktop\studentArray\obj\Debug\studentArray.csproj.GenerateResource.Cache
+C:\Users\gagem\Desktop\studentArray\obj\Debug\studentArray.exe
+C:\Users\gagem\Desktop\studentArray\obj\Debug\studentArray.pdb
